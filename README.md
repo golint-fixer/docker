@@ -12,9 +12,10 @@ operations to manage Docker containers.
 
 ## Features
 
- * **RandomAggr** type which provides an aggregated random data sources.
- * **Salter** type to create password salts and unique session IDs.
- * **SSTDEG** type which provides a System Sleep Time Delta Entropy Gathering.
+ * **Container** type which provides commands to manage containers.
+ * **Docker** type to manage Docker binary directly.
+ * **Image** type which provides commands to manage images.
+ * **ImageMongoDB** type which represents a MongoDB's Image.
 
 ## Installation
 
